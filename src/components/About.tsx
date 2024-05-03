@@ -23,7 +23,7 @@ const About: FC<AboutProps> = ({}) => {
           />
         </div>
         <div className="w-full  ">
-          <h2 className="text-3xl font-bold mb-4 text-white mx-32">
+          <h2 className="text-3xl font-bold mb-4 text-white  md:mx-32">
             शिव ऑटो गॅरेज
           </h2>
           <h2 className="mb-8 md:text-xl md:w-96 text-white">

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Bike Wash",
+    "description": "Basic exterior and interior cleaning service for your bike.",
+    "price": 300
+  },
+  {
+    "name": "Oil Change",
+    "description": "Regular oil change service to keep your bike's engine running smoothly.",
+    "price": 500
+  },
+  {
+    "name": "Chain Lubrication",
+    "description": "Lubrication of bike chain for smooth operation.",
+    "price": 200
+  },
+  {
+    "name": "Brake Service",
+    "description": "Inspection and maintenance of brake components for safety.",
+    "price": 800
+  },
+  {
+    "name": "Bike Detailing",
+    "description": "Thorough cleaning and restoration of your bike's exterior.",
+    "price": 1000
+  },
+  {
+    "name": "Tire Replacement",
+    "description": "Replacement of bike tires with new ones.",
+    "price": 1500
+  },
+  {
+    "name": "Battery Check",
+    "description": "Inspection of bike battery for optimal performance.",
+    "price": 100
+  },
+  {
+    "name": "Headlight Restoration",
+    "description": "Cleaning and restoration of bike headlights for better visibility.",
+    "price": 300
+  },
+  {
+    "name": "Chain Replacement",
+    "description": "Replacement of bike chain with a new one.",
+    "price": 600
+  },
+  {
+    "name": "Engine Tune-up",
+    "description": "Inspection and adjustment of bike engine components for optimal performance.",
+    "price": 1200
+  },
+  {
+    "name": "Radiator Flush",
+    "description": "Cleaning and flushing of the radiator to prevent overheating.",
+    "price": 400
+  },
+  {
+    "name": "Fuel Injector Cleaning",
+    "description": "Cleaning and servicing of fuel injectors for improved fuel efficiency.",
+    "price": 800
+  },
+  {
+    "name": "Alarm Installation",
+    "description": "Installation of alarm systems for added security.",
+    "price": 1500
+  }
+]

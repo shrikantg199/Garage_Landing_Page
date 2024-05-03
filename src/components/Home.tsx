@@ -7,11 +7,17 @@ import { Services } from "./Services";
 import { Contact } from "./Contact";
 import Footer from "./Footer";
 
+import { motion, useScroll } from "framer-motion";
 interface HomeProps {}
 
 const Home: FC<HomeProps> = ({}) => {
+  const { scrollYProgress } = useScroll();
   return (
-    <div className="">
+    <div className="w-screen">
+      <motion.div
+        className="progress-bar z-50"
+        style={{ scaleX: scrollYProgress }}
+      />
       <div className="">
         {" "}
         <Navbar />

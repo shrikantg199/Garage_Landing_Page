@@ -55,7 +55,10 @@ function Navbar({ className }: { className?: string }) {
               onClick={toggleMenu}
             />
             <ul className="flex flex-col w-80">
-              <button className="text-white cursor-pointer" onClick={toggleMenu} />
+              <button
+                className="text-white cursor-pointer"
+                onClick={toggleMenu}
+              />
               <li className="my-2">
                 <Link
                   href="#home"
@@ -105,7 +108,7 @@ function Navbar({ className }: { className?: string }) {
 
       <div
         className={cn(
-          "relative w-screen md:block hidden bg-[#0f172a] inset-x-0 hover:text-orange-600  z-50",
+          "relative w-screen md:block hidden bg-[#0f172a] h-14 inset-x-0 hover:text-orange-600  z-50",
           className
         )}
       >
